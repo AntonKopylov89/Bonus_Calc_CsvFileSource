@@ -1,5 +1,8 @@
+package ru.netology.stats;
+
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
+import ru.netology.stats.BonusService;
 
 import static org.junit.jupiter.api.Assertions.*;
 
